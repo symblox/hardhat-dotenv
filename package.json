@@ -1,17 +1,18 @@
 {
-  "name": "@sushiswap/hardhat-dovenv",
+  "name": "@symblox/hardhat-dotenv",
   "version": "1.0.0",
   "description": "Dotenv wrapper for Hardhat",
   "keywords": [
     "hardhat"
   ],
-  "homepage": "https://github.com/sushiswap/hardhat-dovenv#readme",
+  "homepage": "https://github.com/symblox/hardhat-dovenv#readme",
   "bugs": {
-    "url": "https://github.com/sushiswap/hardhat-dovenv/issues",
+    "url": "https://github.com/symblox/hardhat-dovenv/issues",
     "email": "bugs@sushi.com"
   },
   "license": "MIT",
   "author": "Matthew Lilley <hello@matthewlilley.com>",
+  "main": "src",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
